@@ -1,0 +1,4 @@
+Flask==3.0.3
+flask-sock==0.7.0
+simple-websocket==1.0.0
+firebase-admin==6.5.0
